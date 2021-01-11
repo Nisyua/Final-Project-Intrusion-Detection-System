@@ -23,5 +23,7 @@ Langkah-langkah :
 - Pilih **Port:COM 7**
 
 **Setting Telegram Bot**
-- Install Telegram 
-- 
+- Install Telegram / pergi ke https://web.telegram.org
+- Pada kolom **Search**, ketik **BotFather**
+- Klik **/start > /newbot > (isi nama bot) **
+- Jika bot berhasil dibuat, maka akan menerima pesan dengan tautan untuk mengakses bot dan token bot. Simpan token bot karena Anda akan membutuhkannya agar ESP8266 dapat berinteraksi dengan bot.
