@@ -2,6 +2,7 @@
 ## High Temperature Sensing using DHT11 and Telegram Bot Notification
 *Anis Saidatur Rochma - 05311840000002 - Teknologi Informasi*
 
+![](https://github.com/Nisyua/Final-Project-Intrusion-Detection-System/blob/main/img/alat.jpg)
 Requirement :
 - Arduino Uno
 - DHT11
