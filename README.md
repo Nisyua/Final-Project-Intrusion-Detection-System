@@ -55,3 +55,4 @@ Digunakan untuk melihat temperature saat ini
 Digunakan untuk memberikan respon dari pengguna apabila telah mengetahui adanya Suhu tinggi yang dikirimkan oleh sistem.
 
 ![](https://github.com/Nisyua/Final-Project-Intrusion-Detection-System/blob/main/img/tau.jpg)
+![](https://github.com/Nisyua/Final-Project-Intrusion-Detection-System/blob/main/img/new.png)
