@@ -21,6 +21,7 @@ Langkah-langkah :
 **Install DHT11 add-on**
 - Pergi ke **Tools > Board > Boards Manager** , ketik *dht11* 
 - Pilih **DHT sensor library by Adafruit** , klik install
+![](https://github.com/Nisyua/Final-Project-Intrusion-Detection-System/blob/main/img/dht11.png)
 
 **Install Arduino Telegram Bot Library**
 - Download https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/archive/master.zip
@@ -30,10 +31,27 @@ Langkah-langkah :
 - Pergi ke **Tools > Board > Generic ESP822 Module**
 ![](https://github.com/Nisyua/Final-Project-Intrusion-Detection-System/blob/main/img/board.png)
 - Pilih **Port:COM 7**
+![](https://github.com/Nisyua/Final-Project-Intrusion-Detection-System/blob/main/img/portcom7.png)
 
 **Setting Telegram Bot**
 - Install Telegram / pergi ke https://web.telegram.org
 - Pada kolom **Search**, ketik **BotFather**
-- Klik **/start > /newbot > (isi nama bot) **
+- Klik **/start > /newbot > (isi nama bot)**
 - Jika bot berhasil dibuat, maka akan menerima pesan dengan tautan untuk mengakses bot dan token bot. Simpan token bot karena Anda akan membutuhkannya agar ESP8266 dapat berinteraksi dengan bot.
 ![](https://github.com/Nisyua/Final-Project-Intrusion-Detection-System/blob/main/img/bot.png)
+
+## Hasil
+
+```
+/temp
+```
+Digunakan untuk melihat temperature saat ini
+
+![](https://github.com/Nisyua/Final-Project-Intrusion-Detection-System/blob/main/img/temp.jpg)
+
+```
+/tau
+```
+Digunakan untuk memberikan respon dari pengguna apabila telah mengetahui adanya Suhu tinggi yang dikirimkan oleh sistem.
+
+![](https://github.com/Nisyua/Final-Project-Intrusion-Detection-System/blob/main/img/tau.jpg)
