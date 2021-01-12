@@ -4,7 +4,6 @@
 
 ![](https://github.com/Nisyua/Final-Project-Intrusion-Detection-System/blob/main/img/alat.jpg)
 Requirement :
-- Arduino Uno
 - DHT11
 - Nodemcu
 - Breadboard
