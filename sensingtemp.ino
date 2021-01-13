@@ -11,8 +11,8 @@
 const char* ssid = "syalala"; //nama wifi
 const char* password = "T0p1_54y@_bund4r"; //passw wifi
 
-#define BOTtoken "1586290248:AAEJ9YwJFvswJYXGjbjqnteiqaQInE8mKeI"
-#define CHAT_ID "847768594" 
+#define BOTtoken "XXXXXXXXXXX"
+#define CHAT_ID "XXXXXXX" 
 
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
