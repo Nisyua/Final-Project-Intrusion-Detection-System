@@ -5,7 +5,7 @@
 ![](https://github.com/Nisyua/Final-Project-Intrusion-Detection-System/blob/main/img/alat.jpg)
 Requirement :
 - DHT11
-- Nodemcu
+- Nodemcu (Esp8266)
 - Breadboard
 - Jumper wire (male to male)
 
